@@ -1,0 +1,24 @@
+.task
+{
+    background-color: #edffff;
+    border-radius: 10px;
+}
+
+.name_of_film
+{
+    float: left;
+    font: bold 22px/22px Open Sans;
+    padding-top: 28px;
+    margin-bottom: 21px;
+    width: 285px;
+    color: #333333;
+    text-align: left;
+}
+
+.text_about_film
+{
+    font: 16px/1.75 Georgia;
+    color: #555555;
+    text-align: left;
+    height: auto;
+}
